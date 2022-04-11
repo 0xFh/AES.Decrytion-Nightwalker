@@ -4,7 +4,7 @@ A simple Python script to decrypt the flag for 'Night_Walker' CTF Challenge whic
 
 You can find the challenge here: https://cybertalents.com/challenges/malware/night-walker
 
-If you want to see my writeup for the challenge you can find it here: https://0xbatx.blogspot.com/2021/07/nightwalker-writeup.html
+If you want to see my writeup for the challenge you can find it here: https://0xbatx.blogspot.com/2021/07/nightwalker-report-writeup.html
 
 ----
 
